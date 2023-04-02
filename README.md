@@ -31,7 +31,7 @@ from datetime import datetime
 import re
 ```
 
-### [Google Colab](colab.research.google.com)
+### [Google Colab](https://colab.research.google.com/)
 Doesn't matter since it is already installed for you.
 
 # How to install
@@ -44,10 +44,10 @@ Just download `*.py` file and execute it. Python is required to do so:
 
 If there won't be any `input_urls.txt` file, the script will create one and become very angry.
 
-## [Google Colab](colab.research.google.com)
+## [Google Colab](https://colab.research.google.com/)
 Google Colab is a free site on which you can use python online in a handy notebook. you don't need to install anything, all packages are already installed. In a matter of fact, you get access to the full linux machine which is quite powerful. Just remember: all files you created in this machine are __temporary and will be deleted__. The code itself will require a re-run but will stay. 
 
-Go to the site: [Google Colab](colab.research.google.com)   `colab.research.google.com`.
+Go to the site: [Google Colab](https://colab.research.google.com/) `https://colab.research.google.com/`.
 Click: File > Upload notebook and pick `*.ipynb` from sources. Than, follow the instructions in the following code block. To run the first code block, click on it so that cursor blinks there, and press `Shift+Enter` to execute. First run will take around 10s-15s since virtual machine has to be connected, allocated, etc.
 
 On the Files section there will be folder `gathered` with all your photos. You can download each individually by right-clicking it, but for the easiness of use, make archive with all of your photos and than downlaod it.
