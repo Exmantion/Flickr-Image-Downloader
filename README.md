@@ -1,4 +1,4 @@
-# __Flickr Full-size Image Downloader DEV__
+# __Flickr Full-size Image Downloader DEV1__
 Handy tool to download photos in full resolution from [Flickr](https://www.flickr.com/). 
 
 # DISCLAIMER
